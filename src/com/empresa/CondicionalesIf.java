@@ -6,7 +6,7 @@ public class CondicionalesIf {
 		String var1 = "Hola";
 		String var2 = "Equipo";
 		
-		int a = 300;
+		int a = 700;
 		int b = 200;
 		
 		//primer tipo de if
