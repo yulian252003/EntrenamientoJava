@@ -22,7 +22,7 @@ public class ClaseDeIngenieria implements Estudiante {
 	}
 	
 	public void obtenerUniversidad() {
-		System.out.println("La universidad es: " + Estudiante.universidad);
+		System.out.println("La universidad es: " + universidad);
 		
 	}
 
@@ -46,6 +46,13 @@ public class ClaseDeIngenieria implements Estudiante {
 		
 		
 
+	}
+
+
+	
+	public void obtenerNombreInterface() {
+		
+		
 	}
 
 	
