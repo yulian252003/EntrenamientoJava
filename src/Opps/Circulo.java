@@ -8,6 +8,8 @@ public class Circulo extends Formas {
 		Formas t= new Triangulo();
 		Formas r= new Rectangulo();
 		
+	   // Formas x=new Formas(); No se puede instanciar la clase abstracta
+		
 		c.mostrarForma();
 		t.mostrarForma();
 		r.mostrarForma();
